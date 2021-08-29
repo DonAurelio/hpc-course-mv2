@@ -1,0 +1,105 @@
+ 
+:: initializing oneAPI environment ...
+   slurm_script: BASH_VERSION = 4.4.19(1)-release
+:: advisor -- latest
+:: ccl -- latest
+:: clck -- latest
+:: compiler -- latest
+:: dal -- latest
+:: debugger -- latest
+:: dev-utilities -- latest
+:: dnnl -- latest
+:: dpcpp-ct -- latest
+:: dpl -- latest
+:: inspector -- latest
+:: intelpython -- latest
+:: ipp -- latest
+:: ippcp -- latest
+:: itac -- latest
+:: mkl -- latest
+:: mpi -- latest
+:: tbb -- latest
+:: vpl -- latest
+:: vtune -- latest
+:: oneAPI environment initialized ::
+ 
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..

@@ -1,0 +1,12 @@
+#!/bin/bash                                                                     
+#SBATCH --nodes=8                                                               
+#SBATCH --ntasks-per-node=2
+#SBATCH --cpus-per-task=8 
+#SBATCH --time=00:20:00                                                          
+#SBATCH --job-name=test_quest                                                     
+#SBATCH -o %x_%j.out      # File to which STDOUT will be written                
+#SBATCH -e %x_%j.err      # File to which STDERR will be written                
+
+source /share/apps/intel/oneapi/setvars.sh --force
+
+mpirun ./demo
